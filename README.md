@@ -36,5 +36,5 @@ Ce projet est notre **premier programme C++ relativement complexe**. Il a été 
 
 **Développeurs :**
 - Lucas
-- Florian
+
 
